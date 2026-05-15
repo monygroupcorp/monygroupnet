@@ -2,6 +2,12 @@ import { Component, h } from '@monygroupcorp/microact';
 
 const PROJECTS = [
   {
+    title: 'CamelCabal',
+    url: 'https://camelcabal.fun',
+    description: 'Dual-nature token launch with sniper protection, on-chain treasury and LP portfolio, and ERC-8004 agent adapter. Full frontend, full stack. Partnership with Cypher DEX and Paradilf. Launch went incredibly well.',
+    tech: 'Solidity, Microact, ERC-8004',
+  },
+  {
     title: 'MiladyCola',
     url: 'https://miladycola.net',
     description: 'ZK-powered onchain VRF using beacon randomness. Cryptographic prize challenges for NFT holders.',
